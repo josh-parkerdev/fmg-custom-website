@@ -1,0 +1,18 @@
+body { margin: 0; overflow: hidden; background-color: #000;}
+.stage { position: absolute; top: 0; left: 0; width: 1920px; height: 1080px; }
+
+canvas {
+	padding-left: 0;
+}
+
+#player {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 3;
+	margin: 0;
+	width: 400;
+	height: 300;
+	overflow: hidden;
+	background-color: transparent;
+}

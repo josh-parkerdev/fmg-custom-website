@@ -1,0 +1,61 @@
+"Crosshairs":{
+	"SpriteSheet":{
+		"image":"NERF Status Indicator",
+		"src":"images/crosshairs.png",
+		"x":19,
+		"y":8,
+		"width":18,
+		"height":18,
+		"numFrames":8,
+		"framerate":30,
+		"play":"cycle",
+		"animations":{
+			"cycle":[0,7,"cycle",0.2]
+		}
+	}
+},
+"NERF":{
+	"SpriteSheet":{
+		"image":"NERF Parameters",
+		"src":"images/nerf.png",
+		"x":41,
+		"y":10,
+		"width":32,
+		"height":14,
+		"numFrames":9,
+		"framerate":5,
+		"play":"cycle",
+		"animations":{
+			"cycle":{
+				"frames":0,
+				"next":"loop",
+				"speed":0.3
+			},
+			"loop":[0,8,"pause",1],
+			"pause":{
+				"frames":8,
+				"next":"cycle",
+				"speed":0.1
+			}
+		}
+	}
+}
+
+	"Clusters":{
+		"delay":1000,
+		"duration":500,
+		"alpha":0.2,
+		"end":1,
+		"sequence":[
+			"Steve","DashScreenFrame","Crosshairs"
+		]
+	},
+	"NERFText":{
+		"delay":2000,
+		"duration":500,
+		"alpha":0.2,
+		"end":1,
+		"sequence":[
+			"NERF"
+		]
+	},

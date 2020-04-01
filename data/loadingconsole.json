@@ -1,0 +1,20 @@
+"LoadingConsole":{
+	"states": {
+		"height":190,
+		"shrink":197,
+		"expand":0
+	},
+	"bounds":{
+		"top":6,
+		"left":40,
+		"width":388,
+		"height":190,
+		"marginLeft":6,
+		"marginTop":6
+	},
+	"css":{
+		"zIndex":7,
+		"position":"absolute",
+		"background-color":"transparent"
+	}
+},

@@ -1,0 +1,24 @@
+"NiceMoves":{
+	"x":660,
+	"y":415,
+	"z":9,
+	"width":336,
+	"height":66,
+	"scale":2,
+	"DancingFMG":{
+		"SpriteSheet":{
+			"image":"Nice Moves",
+			"src":"images/nicemoves.png",
+			"x":15,
+			"y":0,
+			"width":56,
+			"height":56,
+			"numFrames":288,
+			"framerate":15,
+			"play":"NiceMoves",
+			"animations":{
+				"NiceMoves":[0,287,"NiceMoves",1]
+			}
+		}
+	}
+}

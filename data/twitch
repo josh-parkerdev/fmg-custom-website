@@ -1,0 +1,22 @@
+"Stream":{
+	"hidden":false,
+	"static":true,
+	"x":175,
+	"y":3,
+	"z":3,
+	"width":130,
+	"height":75,
+	"TwitchStream":{
+		"left":175,
+		"top":3,
+		"Twitch":{
+			"css":{
+				"width":130,
+				"height":75
+			},
+			"options":{
+				"channel":"futuremangaming"
+			}
+		}
+	}
+},
