@@ -1,5 +1,5 @@
 # FuturemanGaming Interactive Webpage
-An interactive web app designed and coded by me rendered using a custom data driven HTML Canvas engine
+An interactive webpage designed and coded by me rendered using a custom data driven HTML Canvas engine
 
 One of my first commission projects made for Twitch streamer FuturemanGaming
 
