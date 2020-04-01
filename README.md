@@ -3,6 +3,8 @@ An interactive web app designed and coded by me rendered using a custom data dri
 
 [Click here for a live preview](http://35.206.95.106/fmg-custom-website/)
 
+![Screen shot of the app](render.png)
+
 /* CLASSES */
 
 /* The Class object is not instantiated, but is instead called from each Component object. This serves as a controller for any entity included in the item's data.This gives different functionality to multiple components without duplicating code.
