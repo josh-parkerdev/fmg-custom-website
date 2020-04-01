@@ -7,6 +7,8 @@ All artwork done by and credited to [@PearIyNerfect](https://twitter.com/peariyn
 
 [Click here for a live preview](http://35.206.95.106/fmg-custom-website/)
 
+Copyright © 2016 Joshua Parker, ParkerDEV. All rights reserved
+
 ![Screen shot of the app](render.png)
 
 /* CLASSES */
