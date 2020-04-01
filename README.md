@@ -9,7 +9,7 @@ All artwork done by and credited to [@PearIyNerfect](https://twitter.com/peariyn
 
 Copyright © 2016 Joshua Parker, ParkerDEV. All rights reserved
 
-![Screen shot of the app](render-040120_164010.png)
+![Screen shot of the app](render-040120_164533.png)
 
 /* CLASSES */
 
