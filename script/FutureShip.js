@@ -8,7 +8,8 @@ var System = {
 			width: 130,
 			height: 75,
 			channel: "futuremangaming",
-			autoplay: false
+			autoplay: false,
+			muted: true
 		}
 	},
 	visualizer: {
