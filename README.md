@@ -5,7 +5,7 @@ One of my first commission projects made for Twitch streamer FuturemanGaming
 
 All artwork done by and credited to [@PearIyNerfect](https://twitter.com/peariynerfect)
 
-[Click here for a live preview](http://parkerdev.io/fmg-custom-website/)
+[Click here for a live preview](https://parkerdev.io/futuremangaming/index.html)
 
 Copyright © 2016 Joshua Parker, ParkerDEV. All rights reserved
 
